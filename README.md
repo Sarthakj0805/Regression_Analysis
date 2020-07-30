@@ -1,6 +1,6 @@
 # Regression Analysis on the Boston Housing Prices Dataset
 
-A google colab Notebook for the regression analysis of the (Boston Housing prices dataset)[http://lib.stat.cmu.edu/datasets/boston] using the Keras API in python.
+A google colab Notebook for the regression analysis of the [Boston Housing prices dataset](http://lib.stat.cmu.edu/datasets/boston) using the Keras API in python.
 
 ##### 1. The Dataset
 The Boston housing prices is a small dataset containing 506 cases with 13 training attributes describing the houses and the median house price in thousand dollars as the target attribute.
