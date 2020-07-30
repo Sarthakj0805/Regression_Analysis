@@ -4,6 +4,7 @@ A google colab Notebook for the regression analysis of the [Boston Housing price
 
 ##### 1. The Dataset
 The Boston housing prices is a small dataset containing 506 cases with 13 training attributes describing the houses and the median house price in thousand dollars as the target attribute.
+
 <img src="./boston.png" />
 
 ##### 2. The Model
